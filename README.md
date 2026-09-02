@@ -15,6 +15,9 @@ CloudFront Distribution  (public, cached, HTTPS-terminated)
       ▼
    S3 Bucket (private — Block Public Access enabled)
 ```
+## Architecture
+
+![System Architecture Diagram](Project2-Arch.png)
 
 ## Stack contents (`template.yaml`)
 
